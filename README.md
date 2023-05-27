@@ -1,4 +1,4 @@
-# Day #31
+# ChatGPT Bot 
 
 ### Chat le pété
 Dans ce repository, j'ai juste essayer de refaire le site de ChatGPT tout en utilisant l'API de OpenAI et de ChatGPT
